@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Prompt Leakage Probing** project is a framework for testing Large Language Model (LLM) agents to assess their susceptibility to system prompt leaks by calculating the advantage. It is built using [AutoGen](https://ag2.ai/).
+The **Prompt Leakage Probing** project is a framework for testing Large Language Model (LLM) agents to assess their susceptibility to system prompt leaks by calculating the advantage. It is built using [AG2](https://ag2.ai/).
 
 ## What This Project Does
 
